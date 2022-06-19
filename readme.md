@@ -47,7 +47,7 @@ scrapy crawl doubanTop250
 
 <br/>
 
-进入doubanTop250_flask文件夹运行后端,<a href='https://github.com/hlf20010508/doubanTop250_flask/blob/7master/README.md'>详细步骤</a>
+进入doubanTop250_flask文件夹运行后端,<a href='https://github.com/hlf20010508/doubanTop250_flask/blob/master/README.md'>详细步骤</a>
 ```
 cd ..
 cd doubanTop250_flask
