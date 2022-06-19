@@ -34,7 +34,7 @@ cd doubanTop250
 
 <br/>
 
-进入doubanTop250_scrapy文件夹爬取数据,<a href='https://github.com/hlf20010508/doubanTop250_scrapy/blob/8c6ad0bc5beb662a11ad7c9a93987dc1f80896f4/README.md'>详细步骤</a>
+进入doubanTop250_scrapy文件夹爬取数据,<a href='https://github.com/hlf20010508/doubanTop250_scrapy/blob/master/README.md'>详细步骤</a>
 ```
 cd doubanTop250_scrapy
 scrapy crawl doubanTop250
@@ -47,7 +47,7 @@ scrapy crawl doubanTop250
 
 <br/>
 
-进入doubanTop250_flask文件夹运行后端,<a href='https://github.com/hlf20010508/doubanTop250_flask/blob/7edd92919d3203dcfe137e5f3727da8c361027d5/README.md'>详细步骤</a>
+进入doubanTop250_flask文件夹运行后端,<a href='https://github.com/hlf20010508/doubanTop250_flask/blob/7master/README.md'>详细步骤</a>
 ```
 cd ..
 cd doubanTop250_flask
@@ -65,6 +65,6 @@ flask run -h 127.0.0.1 -p 5000
 
 doubanTop250_vue用于前端编写，可根据需要在其中更改代码
 
-<a href='https://github.com/hlf20010508/doubanTop250_vue/blob/c7edc7f351b6d6a59c27686a108c1bf20de44b52/README.md'>详细步骤</a>
+<a href='https://github.com/hlf20010508/doubanTop250_vue/blob/master/README.md'>详细步骤</a>
 
 doubanTop250_flask中已使用打包好的前端文件
