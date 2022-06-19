@@ -1,9 +1,12 @@
 [submodule "doubanTop250_scrapy"]
 	path = doubanTop250_scrapy
 	url = https://github.com/hlf20010508/doubanTop250_scrapy.git
+	branch = master
 [submodule "doubanTop250_flask"]
 	path = doubanTop250_flask
 	url = https://github.com/hlf20010508/doubanTop250_flask.git
+	branch = master
 [submodule "doubanTop250_vue"]
 	path = doubanTop250_vue
 	url = https://github.com/hlf20010508/doubanTop250_vue.git
+	branch = master
