@@ -2,7 +2,9 @@
 
 实现了柱状图、饼图和词云
 
-<img src=''>
+<img src='https://github.com/hlf20010508/doubanTop250/raw/master/柱状图.png'/>
+<img src='https://github.com/hlf20010508/doubanTop250/raw/master/饼图.png'/>
+<img src='https://github.com/hlf20010508/doubanTop250/raw/master/词云.png'/>
 
 本项目有三个子项目
 
